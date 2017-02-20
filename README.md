@@ -1,1 +1,1 @@
-# telegram_bot_ehco
+# Эхо-бот для Telegram
