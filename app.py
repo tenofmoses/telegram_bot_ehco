@@ -1,4 +1,4 @@
-TOKEN = '332608448:AAG42nq2uc94Fw_Ha77ZE3cDMTg27_bGbYw'
+TOKEN = '<token>'
 URL = 'https://api.telegram.org/bot%s/%s'
 
 import requests
